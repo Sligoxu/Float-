@@ -23,6 +23,8 @@
 
 等距排列时，往往会因为增加的margin左右边距而超出父级的边框范围，这时候要在原父元素内，子元素外再加一个父元素，用来负margin缩进(margin-left/right:-10px;)。
 
+![display与float的冲突警告](警告.png)
+
 ## 实际网页效果展示链接
 
-http://js.jirengu.com/qosecilama/1/edit?html,css,output
+[效果展示](http://js.jirengu.com/qosecilama/1/edit?html,css,output)
